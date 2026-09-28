@@ -18,3 +18,8 @@ int main() {
     cout << "Hello World";
     return 0;
 }
+```
+
+## Accepted Proof
+
+![Accepted Screenshot](Screenshot%202026-09-29%20005742.png)
